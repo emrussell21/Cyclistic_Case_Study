@@ -1,8 +1,5 @@
 # Cyclistic_Case_Study
----
-title: "Cyclistic Case Study"
-output: html_notebook
----
+
 # Introduction and Scenerio 
 *The following case study is based on a fictitious company we will call Cyclistic, this analysis process was performed for the Google Data Analytics Certificate program on Coursera*
 
